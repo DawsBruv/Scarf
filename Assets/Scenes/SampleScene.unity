@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 108846775}
   m_Layer: 0
-  m_Name: Flingue gauche
+  m_Name: Flingue droite
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -655,7 +655,7 @@ GameObject:
   m_Component:
   - component: {fileID: 715145845}
   m_Layer: 0
-  m_Name: Flingue droite
+  m_Name: Flingue gauche
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -748,10 +748,10 @@ GameObject:
   - component: {fileID: 1152453988}
   - component: {fileID: 1152453987}
   - component: {fileID: 1152453986}
+  - component: {fileID: 1152453992}
   - component: {fileID: 1152453985}
   - component: {fileID: 1152453991}
   - component: {fileID: 1152453990}
-  - component: {fileID: 1152453992}
   m_Layer: 0
   m_Name: Joueur
   m_TagString: Untagged
